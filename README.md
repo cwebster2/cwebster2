@@ -23,6 +23,8 @@ A plugin to populate github co-authors in your commits
 [Mocha-Runner.nvim](https://github.com/cwebster2/mocha-runner.nvim)  
 A plugin to annotate test pass/fail in buffers with mocha tests  
 
+### Social
+<a rel="me" href="https://techhub.social/@casey">@casey@techhub.social</a>
 <!--
 **cwebster2/cwebster2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
